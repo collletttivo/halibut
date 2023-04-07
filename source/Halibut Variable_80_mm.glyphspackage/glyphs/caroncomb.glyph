@@ -1,0 +1,75 @@
+{
+glyphname = caroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (228,410);
+}
+);
+layerId = "0CCC0E2D-406A-4672-8E6C-854B1DF78A27";
+shapes = (
+{
+angle = 180;
+pos = (457,1167);
+ref = circumflexcomb;
+}
+);
+width = 457;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (228,410);
+}
+);
+layerId = m002;
+shapes = (
+{
+angle = 180;
+pos = (457,1172);
+ref = circumflexcomb;
+}
+);
+width = 457;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (157,402);
+}
+);
+layerId = m003;
+shapes = (
+{
+angle = 180;
+pos = (311,1122);
+ref = circumflexcomb;
+}
+);
+width = 311;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (157,391);
+}
+);
+layerId = "2C26E880-80A5-4D19-8A94-7D905A372841";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (311,1107);
+ref = circumflexcomb;
+}
+);
+width = 311;
+}
+);
+unicode = 780;
+}

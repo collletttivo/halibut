@@ -1,0 +1,43 @@
+{
+glyphname = ordfeminine;
+layers = (
+{
+layerId = "0CCC0E2D-406A-4672-8E6C-854B1DF78A27";
+shapes = (
+{
+ref = a;
+}
+);
+width = 648;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = a;
+}
+);
+width = 695;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = a;
+}
+);
+width = 425;
+},
+{
+layerId = "2C26E880-80A5-4D19-8A94-7D905A372841";
+shapes = (
+{
+alignment = -1;
+ref = a;
+}
+);
+width = 373;
+}
+);
+unicode = 170;
+}
