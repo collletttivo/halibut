@@ -1,0 +1,46 @@
+{
+glyphname = micro;
+kernLeft = n;
+kernRight = i;
+layers = (
+{
+layerId = "0CCC0E2D-406A-4672-8E6C-854B1DF78A27";
+shapes = (
+{
+ref = mu;
+}
+);
+width = 778;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = mu;
+}
+);
+width = 804;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = mu;
+}
+);
+width = 497;
+},
+{
+layerId = "2C26E880-80A5-4D19-8A94-7D905A372841";
+shapes = (
+{
+ref = mu;
+}
+);
+width = 469;
+}
+);
+metricLeft = mu;
+metricRight = mu;
+unicode = 181;
+}

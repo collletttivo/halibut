@@ -1,0 +1,65 @@
+{
+glyphname = quotedbl;
+kernLeft = quote;
+kernRight = quote;
+layers = (
+{
+layerId = "0CCC0E2D-406A-4672-8E6C-854B1DF78A27";
+shapes = (
+{
+pos = (10,0);
+ref = quotesingle;
+},
+{
+pos = (170,0);
+ref = quotesingle;
+}
+);
+width = 350;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (10,0);
+ref = quotesingle;
+},
+{
+pos = (170,0);
+ref = quotesingle;
+}
+);
+width = 350;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (160,0);
+ref = quotesingle;
+}
+);
+width = 340;
+},
+{
+layerId = "2C26E880-80A5-4D19-8A94-7D905A372841";
+shapes = (
+{
+alignment = -1;
+pos = (11,0);
+ref = quotesingle;
+},
+{
+alignment = -1;
+pos = (171,0);
+ref = quotesingle;
+}
+);
+width = 342;
+}
+);
+unicode = 34;
+}

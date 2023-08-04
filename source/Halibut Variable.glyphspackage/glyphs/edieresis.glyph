@@ -1,0 +1,60 @@
+{
+glyphname = edieresis;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = "0CCC0E2D-406A-4672-8E6C-854B1DF78A27";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (109,-9);
+ref = dieresiscomb;
+}
+);
+width = 639;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (122,5);
+ref = dieresiscomb;
+}
+);
+width = 667;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (81,-1);
+ref = dieresiscomb;
+}
+);
+width = 395;
+},
+{
+layerId = "2C26E880-80A5-4D19-8A94-7D905A372841";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (60,2);
+ref = dieresiscomb;
+}
+);
+width = 361;
+}
+);
+unicode = 235;
+}

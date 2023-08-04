@@ -1,0 +1,60 @@
+{
+glyphname = omacron;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = "0CCC0E2D-406A-4672-8E6C-854B1DF78A27";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (127,-9);
+ref = macroncomb;
+}
+);
+width = 698;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (140,5);
+ref = macroncomb;
+}
+);
+width = 724;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (57,2);
+ref = macroncomb;
+}
+);
+width = 423;
+},
+{
+layerId = "2C26E880-80A5-4D19-8A94-7D905A372841";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (43,-8);
+ref = macroncomb;
+}
+);
+width = 383;
+}
+);
+unicode = 333;
+}
