@@ -20,10 +20,6 @@ name = Uppercase;
 );
 customParameters = (
 {
-name = Axes;
-value = "Weight, Width";
-},
-{
 name = fsType;
 value = (
 );
@@ -39,6 +35,14 @@ value = (
 1,
 2
 );
+},
+{
+name = "Write lastChange";
+value = 0;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
 }
 );
 date = "2018-11-03 16:13:45 +0000";
