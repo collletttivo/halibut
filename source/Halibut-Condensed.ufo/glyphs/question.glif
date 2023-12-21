@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="425"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="196" y="668" type="curve" smooth="yes"/>
+      <point x="256" y="668"/>
+      <point x="282" y="627"/>
+      <point x="281" y="533" type="curve" smooth="yes"/>
+      <point x="280" y="421"/>
+      <point x="251" y="341"/>
+      <point x="120" y="168" type="curve"/>
+      <point x="138" y="143" type="line"/>
+      <point x="305" y="141" type="line"/>
+      <point x="307" y="149" type="line"/>
+      <point x="175" y="194" type="line"/>
+      <point x="170" y="159" type="line"/>
+      <point x="334" y="357"/>
+      <point x="376" y="451"/>
+      <point x="375" y="554" type="curve" smooth="yes"/>
+      <point x="374" y="658"/>
+      <point x="319" y="712"/>
+      <point x="214" y="712" type="curve" smooth="yes"/>
+      <point x="166" y="712"/>
+      <point x="110" y="701"/>
+      <point x="50" y="679" type="curve"/>
+      <point x="99" y="497" type="line"/>
+      <point x="107" y="499" type="line"/>
+      <point x="128" y="659" type="line"/>
+      <point x="146" y="664"/>
+      <point x="177" y="668"/>
+    </contour>
+    <component base="dotaccentcomb" xOffset="126" yOffset="-540"/>
+  </outline>
+</glyph>

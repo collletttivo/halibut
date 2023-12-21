@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedbl" format="2">
+  <advance width="342"/>
+  <unicode hex="0022"/>
+  <outline>
+    <component base="quotesingle" xOffset="11" identifier="000CD090"/>
+    <component base="quotesingle" xOffset="171" identifier="DB1BA2B4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>000CD090</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DB1BA2B4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_k.liga" format="2">
+  <advance width="886"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="245" y="300" name="center"/>
+  <anchor x="245" y="600" name="top"/>
+  <outline>
+    <contour>
+      <point x="552" y="118" type="line"/>
+      <point x="737" y="357" type="line"/>
+      <point x="845" y="394" type="line"/>
+      <point x="843" y="402" type="line"/>
+      <point x="612" y="402" type="line"/>
+      <point x="610" y="394" type="line"/>
+      <point x="690" y="357" type="line"/>
+      <point x="531" y="146" type="line"/>
+    </contour>
+    <contour>
+      <point x="657" y="259" type="line"/>
+      <point x="607" y="218" type="line"/>
+      <point x="734" y="35" type="line"/>
+      <point x="673" y="8" type="line"/>
+      <point x="675" y="0" type="line"/>
+      <point x="895" y="0" type="line"/>
+      <point x="897" y="8" type="line"/>
+      <point x="811" y="41" type="line"/>
+    </contour>
+    <contour>
+      <point x="23" y="612" type="line"/>
+      <point x="62" y="401" type="line"/>
+      <point x="70" y="403" type="line"/>
+      <point x="101" y="564" type="line"/>
+      <point x="210" y="571" type="line"/>
+      <point x="210" y="45" type="line"/>
+      <point x="100" y="8" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="400" y="8" type="line"/>
+      <point x="290" y="45" type="line"/>
+      <point x="290" y="571" type="line"/>
+      <point x="499" y="561" type="line"/>
+      <point x="499" y="45" type="line"/>
+      <point x="426" y="8" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="643" y="0" type="line"/>
+      <point x="645" y="8" type="line"/>
+      <point x="573" y="45" type="line"/>
+      <point x="573" y="650" type="line"/>
+      <point x="477" y="612" type="line"/>
+      <point x="250" y="600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>k</string>
+    </dict>
+  </lib>
+</glyph>

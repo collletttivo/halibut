@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <advance width="311"/>
+  <unicode hex="030C"/>
+  <anchor x="157" y="391" name="_top"/>
+  <outline>
+    <component base="circumflexcomb" xScale="-1" yScale="-1" xOffset="311" yOffset="1107" identifier="6E6964CD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6E6964CD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

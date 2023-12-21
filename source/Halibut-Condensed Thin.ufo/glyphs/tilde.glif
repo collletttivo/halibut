@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="307"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <component base="tildecomb" xOffset="-13" identifier="5A5437DE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5A5437DE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

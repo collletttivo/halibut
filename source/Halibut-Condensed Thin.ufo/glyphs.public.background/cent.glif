@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="334"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="187" y="400" name="top"/>
+  <outline>
+  </outline>
+</glyph>

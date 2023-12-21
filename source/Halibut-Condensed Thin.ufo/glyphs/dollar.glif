@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance width="331"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="155" y="681" type="line"/>
+      <point x="155" y="-81" type="line"/>
+      <point x="185" y="-81" type="line"/>
+      <point x="185" y="681" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="21" type="line"/>
+      <point x="52" y="-3"/>
+      <point x="112" y="-20"/>
+      <point x="161" y="-20" type="curve" smooth="yes"/>
+      <point x="253" y="-20"/>
+      <point x="311" y="45"/>
+      <point x="311" y="149" type="curve" smooth="yes"/>
+      <point x="311" y="220"/>
+      <point x="284" y="266"/>
+      <point x="217" y="309" type="curve" smooth="yes"/>
+      <point x="149" y="353" type="line" smooth="yes"/>
+      <point x="102" y="384"/>
+      <point x="81" y="428"/>
+      <point x="82" y="493" type="curve" smooth="yes"/>
+      <point x="83" y="557"/>
+      <point x="112" y="592"/>
+      <point x="163" y="592" type="curve" smooth="yes"/>
+      <point x="177" y="592"/>
+      <point x="197" y="589"/>
+      <point x="219" y="583" type="curve"/>
+      <point x="235" y="417" type="line"/>
+      <point x="243" y="415" type="line"/>
+      <point x="296" y="598" type="line"/>
+      <point x="260" y="611"/>
+      <point x="210" y="620"/>
+      <point x="176" y="620" type="curve" smooth="yes"/>
+      <point x="95" y="620"/>
+      <point x="48" y="572"/>
+      <point x="46" y="485" type="curve" smooth="yes"/>
+      <point x="45" y="410"/>
+      <point x="74" y="353"/>
+      <point x="135" y="313" type="curve" smooth="yes"/>
+      <point x="206" y="267" type="line" smooth="yes"/>
+      <point x="259" y="232"/>
+      <point x="279" y="197"/>
+      <point x="279" y="134" type="curve" smooth="yes"/>
+      <point x="278" y="50"/>
+      <point x="242" y="8"/>
+      <point x="172" y="8" type="curve" smooth="yes"/>
+      <point x="145" y="8"/>
+      <point x="122" y="14"/>
+      <point x="96" y="28" type="curve"/>
+      <point x="80" y="187" type="line"/>
+      <point x="72" y="189" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>S</string>
+    </dict>
+  </lib>
+</glyph>

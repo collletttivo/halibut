@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_lcaron" format="2">
+  <advance width="567"/>
+  <outline>
+    <component base="caroncomb.alt" xOffset="456" identifier="8C109BA9"/>
+    <component base="f_l.liga" identifier="B3FEB317"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>lcaron</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8C109BA9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B3FEB317</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

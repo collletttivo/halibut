@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="1261"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="1162" y="94" type="line"/>
+      <point x="1162" y="127" type="line"/>
+      <point x="714" y="127" type="line"/>
+      <point x="744" y="100" type="line"/>
+      <point x="1026" y="328" type="line"/>
+      <point x="977" y="342" type="line"/>
+      <point x="977" y="34" type="line"/>
+      <point x="872" y="5" type="line"/>
+      <point x="873" y="0" type="line"/>
+      <point x="1126" y="0" type="line"/>
+      <point x="1126" y="5" type="line"/>
+      <point x="1048" y="34" type="line"/>
+      <point x="1048" y="329" type="line"/>
+      <point x="1120" y="355" type="line"/>
+      <point x="1120" y="360" type="line"/>
+      <point x="977" y="360" type="line"/>
+      <point x="679" y="119" type="line"/>
+      <point x="690" y="94" type="line"/>
+    </contour>
+    <component base="fraction" xOffset="332" identifier="D9358DA9"/>
+    <component base="threesuperior" xOffset="80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D9358DA9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

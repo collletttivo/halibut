@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_lcaron.liga" format="2">
+  <advance width="924"/>
+  <outline>
+    <component base="f_lcaron"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>lcaron</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance width="1270"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="onesuperior" xOffset="80" identifier="C3B7142B"/>
+    <component base="fraction" xOffset="212" identifier="DA66CAAB"/>
+    <component base="twosuperior" xOffset="636" yOffset="-248" identifier="75DDDD13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>75DDDD13</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C3B7142B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DA66CAAB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <advance width="220"/>
+  <unicode hex="0326"/>
+  <anchor x="135" y="0" name="_bottom"/>
+  <outline>
+    <component base="comma" xOffset="-9" yOffset="-164" identifier="4C0FE999"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4C0FE999</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

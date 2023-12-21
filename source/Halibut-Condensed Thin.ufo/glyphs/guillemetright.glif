@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="348"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <component base="guilsinglright" xOffset="121" identifier="40806DD1"/>
+    <component base="guilsinglright" xOffset="20" identifier="4B86766E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>40806DD1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4B86766E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

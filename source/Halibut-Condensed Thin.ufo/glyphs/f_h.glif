@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_h" format="2">
+  <advance width="821"/>
+  <outline>
+    <component base="f_h.liga"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>
