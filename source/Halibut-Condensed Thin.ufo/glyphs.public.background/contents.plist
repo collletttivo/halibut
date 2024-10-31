@@ -1,26 +1,26 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>F</key>
-    <string>F_.glif</string>
-    <key>Thorn</key>
-    <string>T_horn.glif</string>
-    <key>Z</key>
-    <string>Z_.glif</string>
-    <key>at</key>
-    <string>at.glif</string>
-    <key>cent</key>
-    <string>cent.glif</string>
-    <key>eth</key>
-    <string>eth.glif</string>
-    <key>ogonekcomb</key>
-    <string>ogonekcomb.glif</string>
-    <key>seven</key>
-    <string>seven.glif</string>
-    <key>two</key>
-    <string>two.glif</string>
-    <key>u</key>
-    <string>u.glif</string>
-  </dict>
+<dict>
+	<key>F</key>
+	<string>F_.glif</string>
+	<key>Thorn</key>
+	<string>T_horn.glif</string>
+	<key>Z</key>
+	<string>Z_.glif</string>
+	<key>at</key>
+	<string>at.glif</string>
+	<key>cent</key>
+	<string>cent.glif</string>
+	<key>eth</key>
+	<string>eth.glif</string>
+	<key>ogonekcomb</key>
+	<string>ogonekcomb.glif</string>
+	<key>seven</key>
+	<string>seven.glif</string>
+	<key>two</key>
+	<string>two.glif</string>
+	<key>u</key>
+	<string>u.glif</string>
+</dict>
 </plist>

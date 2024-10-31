@@ -1,26 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="2">
-  <advance width="342"/>
-  <unicode hex="0022"/>
-  <outline>
-    <component base="quotesingle" xOffset="11" identifier="000CD090"/>
-    <component base="quotesingle" xOffset="171" identifier="DB1BA2B4"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>000CD090</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>DB1BA2B4</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
+	<advance width="342"/>
+	<unicode hex="0022"/>
+	<outline>
+		<component base="quotesingle" xOffset="11"/>
+		<component base="quotesingle" xOffset="171"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>quotesingle</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>quotesingle</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

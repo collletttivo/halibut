@@ -1,46 +1,52 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="2">
-  <advance width="828"/>
-  <unicode hex="00BE"/>
-  <outline>
-    <contour>
-      <point x="697" y="95" type="line"/>
-      <point x="697" y="118" type="line"/>
-      <point x="483" y="118" type="line"/>
-      <point x="491" y="100" type="line"/>
-      <point x="628" y="357" type="line"/>
-      <point x="612" y="355" type="line"/>
-      <point x="612" y="36" type="line"/>
-      <point x="531" y="5" type="line"/>
-      <point x="533" y="0" type="line"/>
-      <point x="706" y="0" type="line"/>
-      <point x="708" y="5" type="line"/>
-      <point x="642" y="36" type="line"/>
-      <point x="642" y="324" type="line"/>
-      <point x="708" y="355" type="line"/>
-      <point x="706" y="360" type="line"/>
-      <point x="600" y="360" type="line"/>
-      <point x="467" y="110" type="line"/>
-      <point x="490" y="95" type="line"/>
-    </contour>
-    <component base="fraction" xOffset="259" identifier="98454580"/>
-    <component base="threesuperior" xOffset="114" identifier="AE0F5A1F"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>98454580</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>AE0F5A1F</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
+	<advance width="828"/>
+	<unicode hex="00BE"/>
+	<outline>
+		<contour>
+			<point x="697" y="95" type="line"/>
+			<point x="697" y="118" type="line"/>
+			<point x="483" y="118" type="line"/>
+			<point x="491" y="100" type="line"/>
+			<point x="628" y="357" type="line"/>
+			<point x="612" y="355" type="line"/>
+			<point x="612" y="36" type="line"/>
+			<point x="531" y="5" type="line"/>
+			<point x="533" y="0" type="line"/>
+			<point x="706" y="0" type="line"/>
+			<point x="708" y="5" type="line"/>
+			<point x="642" y="36" type="line"/>
+			<point x="642" y="324" type="line"/>
+			<point x="708" y="355" type="line"/>
+			<point x="706" y="360" type="line"/>
+			<point x="600" y="360" type="line"/>
+			<point x="467" y="110" type="line"/>
+			<point x="490" y="95" type="line"/>
+		</contour>
+		<component base="fraction" xOffset="259"/>
+		<component base="threesuperior" xOffset="114"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>threesuperior</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>
