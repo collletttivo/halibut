@@ -1,21 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tcedilla" format="2">
-  <advance width="598"/>
-  <unicode hex="0163"/>
-  <outline>
-    <component base="t"/>
-    <component base="cedillacomb" xOffset="89" identifier="83697D9D"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>83697D9D</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
+	<advance width="598"/>
+	<unicode hex="0163"/>
+	<outline>
+		<component base="t"/>
+		<component base="cedillacomb" xOffset="89"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>cedillacomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

@@ -1,26 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemetright" format="2">
-  <advance width="348"/>
-  <unicode hex="00BB"/>
-  <outline>
-    <component base="guilsinglright" xOffset="121" identifier="40806DD1"/>
-    <component base="guilsinglright" xOffset="20" identifier="4B86766E"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>40806DD1</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>4B86766E</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
+	<advance width="348"/>
+	<unicode hex="00BB"/>
+	<outline>
+		<component base="guilsinglright" xOffset="121"/>
+		<component base="guilsinglright" xOffset="20"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>guilsinglright</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>guilsinglright</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

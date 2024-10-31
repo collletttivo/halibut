@@ -1,54 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="2">
-  <advance width="938"/>
-  <unicode hex="00A5"/>
-  <outline>
-    <contour>
-      <point x="0" y="592" type="line"/>
-      <point x="130" y="550" type="line"/>
-      <point x="433" y="249" type="line"/>
-      <point x="433" y="50" type="line"/>
-      <point x="278" y="6" type="line"/>
-      <point x="280" y="0" type="line"/>
-      <point x="618" y="0" type="line"/>
-      <point x="620" y="6" type="line"/>
-      <point x="470" y="50" type="line"/>
-      <point x="470" y="250" type="line"/>
-      <point x="788" y="550" type="line"/>
-      <point x="918" y="592" type="line"/>
-      <point x="916" y="600" type="line"/>
-      <point x="576" y="600" type="line"/>
-      <point x="574" y="592" type="line"/>
-      <point x="744" y="550" type="line"/>
-      <point x="442" y="263" type="line"/>
-      <point x="458" y="266" type="line"/>
-      <point x="176" y="550" type="line"/>
-      <point x="346" y="592" type="line"/>
-      <point x="344" y="600" type="line"/>
-      <point x="2" y="600" type="line"/>
-    </contour>
-    <contour>
-      <point x="244" y="273" type="line"/>
-      <point x="244" y="243" type="line"/>
-      <point x="659" y="243" type="line"/>
-      <point x="659" y="273" type="line"/>
-      <point x="490" y="273" type="line"/>
-      <point x="452" y="248" type="line"/>
-      <point x="425" y="273" type="line"/>
-    </contour>
-    <contour>
-      <point x="244" y="187" type="line"/>
-      <point x="244" y="157" type="line"/>
-      <point x="659" y="157" type="line"/>
-      <point x="659" y="187" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Y</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Y</string>
-    </dict>
-  </lib>
+	<advance width="938"/>
+	<unicode hex="00A5"/>
+	<outline>
+		<contour>
+			<point x="0" y="592" type="line"/>
+			<point x="130" y="550" type="line"/>
+			<point x="433" y="249" type="line"/>
+			<point x="433" y="50" type="line"/>
+			<point x="278" y="6" type="line"/>
+			<point x="280" y="0" type="line"/>
+			<point x="618" y="0" type="line"/>
+			<point x="620" y="6" type="line"/>
+			<point x="470" y="50" type="line"/>
+			<point x="470" y="250" type="line"/>
+			<point x="788" y="550" type="line"/>
+			<point x="918" y="592" type="line"/>
+			<point x="916" y="600" type="line"/>
+			<point x="576" y="600" type="line"/>
+			<point x="574" y="592" type="line"/>
+			<point x="744" y="550" type="line"/>
+			<point x="442" y="263" type="line"/>
+			<point x="458" y="266" type="line"/>
+			<point x="176" y="550" type="line"/>
+			<point x="346" y="592" type="line"/>
+			<point x="344" y="600" type="line"/>
+			<point x="2" y="600" type="line"/>
+		</contour>
+		<contour>
+			<point x="244" y="273" type="line"/>
+			<point x="244" y="243" type="line"/>
+			<point x="659" y="243" type="line"/>
+			<point x="659" y="273" type="line"/>
+			<point x="490" y="273" type="line"/>
+			<point x="452" y="248" type="line"/>
+			<point x="425" y="273" type="line"/>
+		</contour>
+		<contour>
+			<point x="244" y="187" type="line"/>
+			<point x="244" y="157" type="line"/>
+			<point x="659" y="157" type="line"/>
+			<point x="659" y="187" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Y</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Y</string>
+		</dict>
+	</lib>
 </glyph>

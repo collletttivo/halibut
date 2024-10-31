@@ -1,29 +1,29 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <advance width="827"/>
-  <unicode hex="0054"/>
-  <anchor x="427" y="0" name="bottom"/>
-  <anchor x="414" y="300" name="center"/>
-  <anchor x="414" y="600" name="top"/>
-  <outline>
-    <contour>
-      <point x="35" y="610" type="line"/>
-      <point x="73" y="419" type="line"/>
-      <point x="81" y="421" type="line"/>
-      <point x="107" y="579" type="line"/>
-      <point x="395" y="579" type="line"/>
-      <point x="396" y="50" type="line"/>
-      <point x="246" y="8" type="line"/>
-      <point x="248" y="0" type="line"/>
-      <point x="581" y="0" type="line"/>
-      <point x="583" y="8" type="line"/>
-      <point x="433" y="50" type="line"/>
-      <point x="432" y="579" type="line"/>
-      <point x="721" y="580" type="line"/>
-      <point x="760" y="421" type="line"/>
-      <point x="768" y="419" type="line"/>
-      <point x="792" y="610" type="line"/>
-      <point x="414" y="600" type="line"/>
-    </contour>
-  </outline>
+	<advance width="827"/>
+	<unicode hex="0054"/>
+	<anchor x="427" y="0" name="bottom"/>
+	<anchor x="414" y="300" name="center"/>
+	<anchor x="414" y="600" name="top"/>
+	<outline>
+		<contour>
+			<point x="35" y="610" type="line"/>
+			<point x="73" y="419" type="line"/>
+			<point x="81" y="421" type="line"/>
+			<point x="107" y="579" type="line"/>
+			<point x="395" y="579" type="line"/>
+			<point x="396" y="50" type="line"/>
+			<point x="246" y="8" type="line"/>
+			<point x="248" y="0" type="line"/>
+			<point x="581" y="0" type="line"/>
+			<point x="583" y="8" type="line"/>
+			<point x="433" y="50" type="line"/>
+			<point x="432" y="579" type="line"/>
+			<point x="721" y="580" type="line"/>
+			<point x="760" y="421" type="line"/>
+			<point x="768" y="419" type="line"/>
+			<point x="792" y="610" type="line"/>
+			<point x="414" y="600" type="line"/>
+		</contour>
+	</outline>
 </glyph>

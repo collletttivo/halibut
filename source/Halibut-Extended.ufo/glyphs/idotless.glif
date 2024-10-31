@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotless" format="2">
-  <advance width="430"/>
-  <unicode hex="0131"/>
-  <anchor x="227" y="10" name="ogonek"/>
-  <anchor x="226" y="415" name="top"/>
-  <outline>
-    <contour>
-      <point x="269" y="50" type="line"/>
-      <point x="269" y="435" type="line"/>
-      <point x="31" y="350" type="line"/>
-      <point x="33" y="342" type="line"/>
-      <point x="182" y="350" type="line"/>
-      <point x="182" y="50" type="line"/>
-      <point x="32" y="8" type="line"/>
-      <point x="34" y="0" type="line"/>
-      <point x="417" y="0" type="line"/>
-      <point x="419" y="8" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>n</string>
-    </dict>
-  </lib>
+	<advance width="430"/>
+	<unicode hex="0131"/>
+	<anchor x="227" y="10" name="ogonek"/>
+	<anchor x="226" y="415" name="top"/>
+	<outline>
+		<contour>
+			<point x="269" y="50" type="line"/>
+			<point x="269" y="435" type="line"/>
+			<point x="31" y="350" type="line"/>
+			<point x="33" y="342" type="line"/>
+			<point x="182" y="350" type="line"/>
+			<point x="182" y="50" type="line"/>
+			<point x="32" y="8" type="line"/>
+			<point x="34" y="0" type="line"/>
+			<point x="417" y="0" type="line"/>
+			<point x="419" y="8" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
 </glyph>

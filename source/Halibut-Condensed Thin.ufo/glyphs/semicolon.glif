@@ -1,26 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-  <advance width="224"/>
-  <unicode hex="003B"/>
-  <outline>
-    <component base="comma" xOffset="-10" identifier="3BA8BB20"/>
-    <component base="period" xOffset="58" yOffset="319" identifier="044260E5"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>044260E5</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>3BA8BB20</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
+	<advance width="224"/>
+	<unicode hex="003B"/>
+	<outline>
+		<component base="comma" xOffset="-10"/>
+		<component base="period" xOffset="58" yOffset="319"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>comma</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>period</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

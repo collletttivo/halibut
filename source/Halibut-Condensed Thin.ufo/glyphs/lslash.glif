@@ -1,30 +1,33 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
-  <advance width="276"/>
-  <unicode hex="0142"/>
-  <outline>
-    <contour>
-      <point x="-12" y="279" type="line"/>
-      <point x="2" y="256" type="line"/>
-      <point x="312" y="420" type="line"/>
-      <point x="299" y="444" type="line"/>
-    </contour>
-    <component base="l" xOffset="30" identifier="847CD16A"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>l-40</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>l-40</string>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>847CD16A</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
+	<advance width="276"/>
+	<unicode hex="0142"/>
+	<outline>
+		<contour>
+			<point x="-12" y="279" type="line"/>
+			<point x="2" y="256" type="line"/>
+			<point x="312" y="420" type="line"/>
+			<point x="299" y="444" type="line"/>
+		</contour>
+		<component base="l" xOffset="30"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>l</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>l-40</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>l-40</string>
+		</dict>
+	</lib>
 </glyph>

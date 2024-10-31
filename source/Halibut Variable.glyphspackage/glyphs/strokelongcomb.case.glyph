@@ -1,0 +1,89 @@
+{
+glyphname = strokelongcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _bar;
+pos = (524,477);
+}
+);
+layerId = "0CCC0E2D-406A-4672-8E6C-854B1DF78A27";
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,491,l),
+(30,461,l),
+(1018,461,l),
+(1018,491,l)
+);
+}
+);
+width = 1048;
+},
+{
+anchors = (
+{
+name = _bar;
+pos = (299,477);
+}
+);
+layerId = "2C26E880-80A5-4D19-8A94-7D905A372841";
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,490,l),
+(30,463,l),
+(568,463,l),
+(568,490,l)
+);
+}
+);
+width = 598;
+},
+{
+anchors = (
+{
+name = _bar;
+pos = (299,477);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(20,491,l),
+(20,461,l),
+(578,461,l),
+(578,491,l)
+);
+}
+);
+width = 600;
+},
+{
+anchors = (
+{
+name = _bar;
+pos = (524,477);
+}
+);
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,496,l),
+(30,456,l),
+(1018,456,l),
+(1018,496,l)
+);
+}
+);
+width = 1048;
+}
+);
+}

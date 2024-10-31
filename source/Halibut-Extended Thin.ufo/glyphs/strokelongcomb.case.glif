@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelongcomb.case" format="2">
+	<advance width="1048"/>
+	<anchor x="524" y="477" name="_bar"/>
+	<outline>
+		<contour>
+			<point x="1018" y="491" type="line"/>
+			<point x="30" y="491" type="line"/>
+			<point x="30" y="461" type="line"/>
+			<point x="1018" y="461" type="line"/>
+		</contour>
+	</outline>
+</glyph>

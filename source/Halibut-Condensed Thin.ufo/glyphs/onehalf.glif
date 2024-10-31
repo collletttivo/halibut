@@ -1,32 +1,41 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf" format="2">
-  <advance width="765"/>
-  <unicode hex="00BD"/>
-  <outline>
-    <component base="onesuperior" xOffset="109" identifier="F4D73631"/>
-    <component base="fraction" xOffset="197" identifier="4CDB60A9"/>
-    <component base="twosuperior" xOffset="429" yOffset="-248" identifier="7507FF58"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>public.objectLibs</key>
-      <dict>
-        <key>4CDB60A9</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>7507FF58</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-        <key>F4D73631</key>
-        <dict>
-          <key>com.schriftgestaltung.alignment</key>
-          <integer>-1</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
+	<advance width="765"/>
+	<unicode hex="00BD"/>
+	<outline>
+		<component base="onesuperior" xOffset="109"/>
+		<component base="fraction" xOffset="197"/>
+		<component base="twosuperior" xOffset="429" yOffset="-248"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>onesuperior</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>twosuperior</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>
